@@ -22,3 +22,19 @@ It's similar to how Aztecross, Datto, and Ehroar figure out numbers and share th
 
 It's good to eventually be able to do this kind of Math yourself. But, that's a skill to work on in the future.
 
+## Resources
+
+Some of the resources we'll use for Python are listed.
+
+- https://www.learnbyexample.org/python/
+- https://learnpythonthehardway.org/python3/
+- https://nostarch.com/automatestuff2
+- https://hyperpolyglot.org/scripting
+
+We will eventually want to create web apps, as part of our learning. To do that, we might need to dabble in a small amount of other languages like Javascript and SQL.
+
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- https://eloquentjavascript.net/
+- https://opentextbc.ca/dbdesign01/chapter/sql-structured-query-language/
+- https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax
+
