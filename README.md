@@ -1,6 +1,8 @@
 # Learning-python
 
-This is a repo for Los Kinder Guardians (here called `Los Kinder Coders`) to learn Python.
+This is a repo for Los Kinder Guardians (here called `Los Kinder Coders`) to learn Python. It's an open repository, but a work in progress. Use at your own risk.
+
+## Getting started
 
 You'll use a combination of GitHub and GitPod. GitHub is a place to store code, and is the website you're currently on. Create an account.
 
