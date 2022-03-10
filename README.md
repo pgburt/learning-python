@@ -18,7 +18,9 @@ If you would like to code locally, [Git](https://git-scm.com/downloads), [Python
 
 ## Do I need to know Math to program?
 
-Not really. IF you can add `500 + 60` together, you know enough Math to program. This is the kind of Math use in 99% of programming. The other 1% is a bit more complex, and often falls under the category of Discrete Mathematics. This other 1% of Math is used to tell how slow an algorithm might be, or how to sort a list of integers in the best possible way. It's a niche category of programming, and often these sorts of calculations are done for you already.
+Not really. IF you can add `500 + 60` together, you know enough Math to program. This is the kind of Math use in 99% of programming. 
+
+The other 1% is a bit more complex, and often falls under the category of Discrete Mathematics. This other Math is used to tell how slow an algorithm might be, or how to sort a list of integers the fastest way. It's a niche category of programming, and often these sorts of calculations are done for you already.
 
 It's similar to how Aztecross, Datto, and Ehroar figure out numbers and share them the Destiny community. It often happens that smart programmers figure out what's the best approach, and share that knowledge with the coding community. 
 
