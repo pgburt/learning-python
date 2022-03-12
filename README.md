@@ -42,3 +42,12 @@ We will eventually want to create web apps, as part of our learning. To do that,
 - https://opentextbc.ca/dbdesign01/chapter/sql-structured-query-language/
 - https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax
 
+Finally, we'll need to learn a little bit about Linux and Git. Linux is the operating system (like Windows). Git is the wya we'll save our code.
+
+- https://lab.github.com/githubtraining/introduction-to-github
+
+## Getting Setup
+1. Fork this repo. Do so by click the [fork button](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) in the upper right.
+2. Open your new repo with GitPod. Do so by visiting [Gitpod.io]() and clicking "New Workspace". This should display a menu where you can select your new repo "learning-python" repo.
+3. 
+
