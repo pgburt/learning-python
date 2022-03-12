@@ -45,9 +45,11 @@ We will eventually want to create web apps, as part of our learning. To do that,
 Finally, we'll need to learn a little bit about Linux and Git. Linux is the operating system (like Windows). Git is the wya we'll save our code.
 
 - https://lab.github.com/githubtraining/introduction-to-github
+- https://github.com/git-guides/#make-change-and-make-a-commit
 
-## Getting Setup
+## Testing your setup
 1. Fork this repo. Do so by click the [fork button](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) in the upper right.
-2. Open your new repo with GitPod. Do so by visiting [Gitpod.io]() and clicking "New Workspace". This should display a menu where you can select your new repo "learning-python" repo.
-3. 
-
+2. Open your new repo with GitPod. Do so by visiting [Gitpod.io](https://gitpod.io/workspaces) and clicking "New Workspace". This should display a menu where you can select your new repo "learning-python" repo.
+3. Explore your editor. Make a change in the top window (the editor), and save it using `git` commands in the bottom window (called the terminal, command line, or CLI).
+4. To save your work you'll need to use the [git commands](https://github.com/git-guides/#make-change-and-make-a-commit) listed here. Specifically, `git add .`, `git commit -m "comment"`, and `git push` are the three commands to run in order to save your work.
+5. Check that your changes are saved to your repository. You should be able to view your repo at `https://github.com/the-jujus/learning-python/`, where `the-jujus` is the name of your github account.
