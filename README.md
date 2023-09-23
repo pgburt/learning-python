@@ -18,22 +18,21 @@ If you would like to code locally, [Git](https://git-scm.com/downloads), [Python
 
 ## Do I need to know Math to program?
 
-Not really. IF you can add `500 + 60` together, you know enough Math to program. This is the kind of Math use in 99% of programming. 
+Not really. IF you can add `500 + 60` together, you know enough Math to program. This is the kind of Math use in 99% of programming. Most basic programming is more about staying organized, and and paying close attention to the details.
 
-The other 1% is a bit more complex, and often falls under the category of Discrete Mathematics. This other Math is used to tell how slow an algorithm might be, or how to sort a list of integers the fastest way. It's a niche category of programming, and often these sorts of calculations are done for you already.
+The other 1% is often falls under the category of Discrete Mathematics or Linear Algebra. This other Math is used to tell how slow an algorithm might be, or how to sort a list of integers the fastest way. It's a niche category of programming, and often these sorts of calculations are things you can look up online.
 
-It's good to eventually be able to do this kind of Math yourself. But, that's a skill to work on in the future.
+It's good to eventually be able to do this kind of Math yourself. But, that's also an optional skill that can come later. 
 
 ## Resources
 
 Some of the resources we'll use for Python are listed.
 
+- https://automatetheboringstuff.com/#toc (the main resource)
 - https://www.learnbyexample.org/python/
-- https://nostarch.com/automatestuff2
 - https://hyperpolyglot.org/scripting
 
-Finally, we'll need to learn a little bit about Linux and Git. Linux is the operating system (like Windows). Git is the way we'll save our code.
+We'll need to learn a little bit about Linux and Git. Linux is the operating system (like Windows). Git is the way we'll save our code.
 
-- https://lab.github.com/githubtraining/introduction-to-github
+- https://github.com/git-guides/#make-change-and-make-a-commit (the main resource)
 - https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
-- https://github.com/git-guides/#make-change-and-make-a-commit
